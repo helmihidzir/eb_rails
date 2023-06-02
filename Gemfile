@@ -72,3 +72,4 @@ group :test do
 end
 
 gem 'nokogiri', '~> 1.15.2'
+gem 'aws-sdk-cloudwatchlogs'
